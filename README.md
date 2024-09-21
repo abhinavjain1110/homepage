@@ -1,4 +1,4 @@
-🔗 **Live Demo:** [[https://your-app-name.appvercel.](https://vercel.com/abhinavjain1110s-projects/vercel-homepage)]([https://your-app-name.vercel.app](https://vercel.com/abhinavjain1110s-projects/vercel-homepage))
+🔗 **Live Demo:** [https://vercel-homepage-rosy.vercel.app/](https://vercel-homepage-rosy.vercel.app/)
 ---
 
 # **Printify-Inspired Web Development Homepage**
